@@ -8,6 +8,11 @@
 
 
 Ответы:  
+Скрин 1  
 ![alt text](https://github.com/Marsianec/homework23-1/blob/main/img/1.png)  
+
+Скрин 2  
 ![alt text](https://github.com/Marsianec/homework23-1/blob/main/img/2.png)  
+
+Скрин 3  
 ![alt text](https://github.com/Marsianec/homework23-1/blob/main/img/3.png)  
